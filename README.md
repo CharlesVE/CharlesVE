@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CharlesVE/CharlesVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on predicting stock market prices with neural networks.
 - 🌱 I’m currently learning Pytorch and Tensor Flow.
 - 👯 I’m looking to collaborate on a data science project!
