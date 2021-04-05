@@ -7,5 +7,5 @@
 - 💬 Ask me about machine learning (k means clustering).
 - 📫 How to reach me: charlievalencia@mail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm half English half Ecuadorian :)
+- ⚡ Fun fact: I'm half English & half Ecuadorian :)
 
